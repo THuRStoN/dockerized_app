@@ -1,2 +1,2 @@
 # dockerized_web
-An image for a node based website.
+An image for a node based server.
